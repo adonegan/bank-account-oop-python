@@ -1,6 +1,6 @@
-# BANK ACCOUNT OOP
+# Bank account oop
 
-Just a quick task from Udemy's Complete Python Bootcamp
+Just a quick task from Udemy's Complete Python Bootcamp object orientated programming lessons. Creating a new class object and creating / accessing attributes of the object class.
 
 ## Notes
 
